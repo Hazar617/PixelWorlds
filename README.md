@@ -6,7 +6,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## TABLE OF CONTENTS
+
 <h2 id="table-of-contents">Table of Contents</h2>
 
 <details open="open">
@@ -18,7 +18,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-##  Описание на проекта
+
 <h2 id="description">Описание на проекта</h2>
 
 <p align="justify">
@@ -35,7 +35,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Основни функционалности
+
 <h2 id="functionalities">Основни функционалности</h2>
 
 - Регистрация и вход на потребители.
@@ -49,7 +49,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Цел на проекта
+
 <h2 id="goal">Цел на проекта</h2>
 
 <p align="justify">
@@ -66,7 +66,9 @@
 - ### <a href = "https://github.com/TodorSavov"> Тодор Савов </a> 
 - ### <a href = "https://github.com/Hazar617"> Хазар Ферадов </a>
  </a>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
 <h2 align="center"> Благодарим, че разгледахте PixelWorlds!  ❤️</h2>
-```
+
