@@ -70,6 +70,7 @@
 - ### <a href = "https://github.com/R-krlv"> Рая Кирилова </a>
 - ### <a href = "https://github.com/TodorSavov"> Тодор Савов </a> 
 - ### <a href = "https://github.com/Hazar617"> Хазар Ферадов </a>
+- ### <a href = "https://github.com/Hazar617"> Dostap za proekta https://services.api.unity.com/app-linking/v1/hub/editor/Unity.Cloud.DeepLinking.Editor/f8pOrX138sGIoJZ6Mb2ClXcJ3fp07Pod </a>
  </a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
