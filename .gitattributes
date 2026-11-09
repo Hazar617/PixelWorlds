@@ -1,1 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
 src/2D.zip filter=lfs diff=lfs merge=lfs -text
