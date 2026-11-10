@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h1 align="center"> 🎮 PixelWorlds Hazar </h1>
+<h1 align="center"> 🎮 PixelWorlds </h1>
 <br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
