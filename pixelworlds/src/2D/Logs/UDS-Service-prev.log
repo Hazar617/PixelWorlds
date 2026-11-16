@@ -1,0 +1,37 @@
+
+Server arguments:
+  --memory-size 1073741824
+  --shared-postfix 8f06495e4f93c77407cea3176bbf37a3
+  --working-directory Library/DataStore
+  --silent-console
+  --shutdown-grace 0
+  --client-process-check 0
+  --uds-log-file D:/Project/2D/Logs/UDS-Service.log
+  --debug-log 2
+  -name
+  Unity.DataStore
+
+Initialising UDS system complete:
+  - System type: Service
+  - Resource namespace: 8f06495e4f93c77407cea3176bbf37a3
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+Starting Unity Data Store Application
+[Error] Failed to remove data for hash b9ca907eee9d26eb55acca79675498f4. Failure received from service
+0x00007ff7c628c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff7c624fe85 (Unity.DataStore) uds_cleanup
+0x00007ff7c623ee6f (Unity.DataStore) 
+0x00007ff7c62400bd (Unity.DataStore) 
+0x00007ff7c6227395 (Unity.DataStore) 
+0x00007ff7c622681a (Unity.DataStore) 
+0x00007ff7c6226aff (Unity.DataStore) 
+0x00007ff7c62228b5 (Unity.DataStore) 
+0x00007ff7c62a80e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff9ec0edda7 (KERNEL32) BaseThreadInitThunk
+0x00007ff9ec9fee4c (ntdll) RtlUserThreadStart
+
+Unity Data Store Application Complete
+[Warning] Shutting down service while there are still connected clients, client count = 2
+Shut down UDS service system complete
