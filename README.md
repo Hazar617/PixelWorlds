@@ -84,9 +84,7 @@
 Документацията на проекта включва следните файлове:
 
 - [MVP.md](docs/MVP.md) – минимална работеща версия и обхват на проекта.
-- [TESTING.md](docs/TESTING.md) – план за ръчни тестове.
 - [BUGS.md](docs/BUGS.md) – описание на известните проблеми.
-- [CONTRIBUTION.md](docs/CONTRIBUTION.md) – правила и организация на работата в екипа.
 - [GITHUB_SETUP.md](docs/GITHUB_SETUP.md) – структура и настройки за работа с GitHub.
 - [Screenshots](docs/screenshots/) – снимки от реалното изпълнение на проекта.
 
