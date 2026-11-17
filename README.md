@@ -85,7 +85,6 @@
 
 - [MVP.md](docs/MVP.md) – минимална работеща версия и обхват на проекта.
 - [BUGS.md](docs/BUGS.md) – описание на известните проблеми.
-- [GITHUB_SETUP.md](docs/GITHUB_SETUP.md) – структура и настройки за работа с GitHub.
 - [Screenshots](docs/screenshots/) – снимки от реалното изпълнение на проекта.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
