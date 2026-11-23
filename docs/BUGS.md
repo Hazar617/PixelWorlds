@@ -4,9 +4,10 @@
 
 
 <h1 align="center">🐛 PixelWorlds – BUGS</h1>
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <br>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 
@@ -18,10 +19,10 @@
 &#x20;   <li><a href="#bug-001">BUG-001: Проблем със скачането</a></li>
 &#x20;   <li><a href="#bug-002">BUG-002: Неочаквано преместване</a></li>
 &#x20;   <li><a href="#summary">Обобщение</a></li>
-  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  
 </details>
 
-
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="description">Описание</h2>
 
 <p align="justify">
@@ -33,10 +34,9 @@
 Документът служи за проследяване на откритите проблеми и тяхното отстраняване от членовете на екипа.
 
 </p>
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ---
-
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="bug-001">BUG-001: Скачане нагоре във въздуха при повторно натискане на Space</h2>
 
 - **Статус:** Отворен
