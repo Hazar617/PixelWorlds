@@ -5,17 +5,19 @@
 <h1 align="center">🐛 PixelWorlds – BUGS</h1>
 <br>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <h2 id="table-of-contents">Съдържание</h2>
 
 <details open="open">
-&#x20;   <summary>Съдържание\</summary>
+&#x20;   <summary>Съдържание</summary>
 &#x20;   <li><a href="#description">Описание</a></li>
 &#x20;   <li><a href="#bug-001">BUG-001: Проблем със скачането</a></li>
 &#x20;   <li><a href="#bug-002">BUG-002: Неочаквано преместване</a></li>
 &#x20;   <li><a href="#summary">Обобщение</a></li>
 </details>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="description">Описание</h2>
 
@@ -28,6 +30,7 @@
 Документът служи за проследяване на откритите проблеми и тяхното отстраняване от членовете на екипа.
 
 </p>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ---
 
@@ -63,6 +66,7 @@
 - **Решение:** Все още няма потвърдено решение.
 
 ---
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="bug-002">BUG-002: Неочаквано преместване при смяна на посоката</h2>
 
@@ -96,6 +100,7 @@
 - **Решение:** Все още няма потвърдено решение.
 
 ---
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="summary">Обобщение</h2>
 
@@ -106,6 +111,7 @@
 | BUG-001 | Проблем със скачането  | Отворен | Средна     |
 | BUG-002 | Неочаквано преместване | Отворен | Средна     |
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <br>
